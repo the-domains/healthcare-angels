@@ -1,0 +1,14 @@
+layout_spectrum: 0.15777522511780262
+typography_spectrum: 0.6358653784263879
+color:
+  brandStrength: 0.6759729566983879
+  lightness: 0.8122574447188526
+  saturation: 0.15910781361162663
+  rhythmicContrast: 0.8576656228397042
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Healthcare Angels
