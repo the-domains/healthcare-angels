@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-13T00:38:43.139Z'
+datePublished: '2016-07-13T00:40:50.611Z'
 author: []
 title: Bringing Innovation to the Global Community
 description: >-
@@ -16,8 +16,8 @@ description: >-
   organizations we support will be succeeding five years from now than any of
   their counterparts. 
 sourcePath: _posts/2016-06-22-bringing-innovation-to-the-global-community.md
-dateModified: '2016-06-28T01:55:37.691Z'
-starred: false
+dateModified: '2016-07-13T00:40:50.119Z'
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
